@@ -1,5 +1,6 @@
 ##Hangman
-During the holidays, we all love to play games, don’t we? Why not create one yourselves and practice all the cool things you’ve learned so far? So let’s get started with a good old classic.
+
+#During the holidays, we all love to play games, don’t we? Why not create one yourselves and practice all the cool things you’ve learned so far? So let’s get started with a good old classic.
 Create a web page that will allow the user to play the hangman game against the computer. 
  
 The rules of hangman are this:
