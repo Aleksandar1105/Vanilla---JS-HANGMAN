@@ -1,8 +1,10 @@
-##Hangman
 
-#During the holidays, we all love to play games, don’t we? Why not create one yourselves and practice all the cool things you’ve learned so far? So let’s get started with a good old classic.
+# HANGMAN
+
+
+During the holidays, we all love to play games, don’t we? Why not create one yourselves and practice all the cool things you’ve learned so far? So let’s get started with a good old classic.
 Create a web page that will allow the user to play the hangman game against the computer. 
- 
+
 The rules of hangman are this:
  - We have to guess a word by guessing individual letters. We have a set number of lives and lose a life each time we make a wrong guess.
 
@@ -19,3 +21,6 @@ Thinking about this programmatically, we can see that the state of the game at a
 -	The game has three possible states - Victory (all letters guessed), Death (no more lives left) or Still Playing. All of these can be figured out using the above three variables.
 It's worth emphasising that the lives, or maximum number of wrong guesses, and the word are set at the start of the game. The only thing that changes throughout the course of a game is the guessed letters, and everything else follows on from that.
 BONUS: A sketch of the scaffold is added to each time there's a wrong guess. If the sketch is completed before we complete the game, then we lose!
+
+
+
